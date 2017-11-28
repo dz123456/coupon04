@@ -55,6 +55,9 @@
 }
 ._流程形状 {
 }
+._文本段落1 {
+  text-align:left;
+}
 ._形状 {
   font-family:'ArialMT', 'Arial';
   font-weight:normal;
@@ -99,7 +102,7 @@
   font-size:13px;
   color:#000000;
 }
-._文本段落1 {
+._文本段落2 {
   text-align:left;
 }
 ._一级标题1 {
@@ -121,6 +124,10 @@
   color:#000000;
   text-align:left;
 }
+.list_box {
+  color:#000000;
+  text-align:left;
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -133,13 +140,16 @@
   font-size:14px;
   text-align:left;
 }
-._文本段落2 {
+._文本段落3 {
   text-align:left;
 }
 ._水平线 {
 }
 .radio_button {
   text-align:left;
+}
+.html_button {
+  text-align:center;
 }
 .table_cell {
 }
@@ -153,6 +163,9 @@
   line-height:normal;
 }
 .snapshot {
+}
+.marker {
+  color:#FFFFFF;
 }
 .text_area {
   color:#000000;
@@ -177,4 +190,11 @@
 .placeholder {
 }
 .flow_shape {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.image {
+  color:#000000;
 }
