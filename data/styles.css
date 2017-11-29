@@ -63,6 +63,10 @@
   font-weight:normal;
   font-style:normal;
 }
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
 .box_2 {
 }
 .label {
@@ -79,7 +83,7 @@
 }
 .button {
 }
-._文本框 {
+._文本框1 {
   font-size:13px;
   color:#000000;
   text-align:left;
