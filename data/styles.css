@@ -124,6 +124,15 @@
   font-size:13px;
   color:#000000;
 }
+._单元格 {
+  font-size:13px;
+  color:#000000;
+}
+._表格 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -167,6 +176,9 @@
   line-height:normal;
 }
 .snapshot {
+}
+.sticky_2 {
+  text-align:left;
 }
 .marker {
   color:#FFFFFF;
